@@ -1,46 +1,45 @@
-🌱
-
-About Me
-
-Hi,I am building practical skills in Excel, data analysis, and technology while bringing experience from horticulture and hands-on work environments.
+Hi,I am building practical skills in **Excel, data analysis, and technology** while bringing experience from **horticulture and hands-on work environments**.
 
 I enjoy learning through real projects and improving my skills step by step.
 
-🛠️ Skills & Learning
+## 🛠️ Skills & Learning
 
-📊 Data & Excel
+### 📊 Data & Excel
+- Excel formulas and functions
+- Data cleaning and analysis
+- Financial modelling
+- Dashboards and reporting
+- Dynamic Excel functions (GROUPBY, PIVOTBY, XLOOKUP)
 
-Excel formulas and functions
-Data cleaning and analysis
-Financial modelling
-Dashboards and reporting
-Dynamic Excel functions (GROUPBY, PIVOTBY, XLOOKUP)
-💻 Technology
+### 💻 Technology
+- GitHub & portfolio development
+- HTML/CSS basics
+- Exploring data tools and automation
 
-GitHub & portfolio development
-HTML/CSS basics
-Exploring data tools and automation
-🌱 Background
+### 🌱 Background
+- Horticulture and garden maintenance
+- Practical problem solving
+- Outdoor work and teamwork
 
-Horticulture and garden maintenance
-Practical problem solving
-Outdoor work and teamwork
-📂 Projects
+## 📂 Projects
 
-📊 Excel Portfolio
-
+### 📊 Excel Portfolio
 Building practical Excel projects including:
+- Financial calculators
+- Data analysis reports
+- Business dashboards
+- Inventory and tracking tools
 
-Financial calculators
-Data analysis reports
-Business dashboards
-Inventory and tracking tools
-🎯 Current Goals
+## 🎯 Current Goals
 
-Build a professional Excel/data portfolio
-Learn Power Query and Power BI
-Improve data analysis skills
-Create useful projects that solve real problems
+- Build a professional Excel/data portfolio
+- Learn Power Query and Power BI
+- Improve data analysis skills
+- Create useful projects that solve real problems
+
+## 🌱 Philosophy
+
+> Small improvements every day create long-term growth.
 
 
 ## Hi there 👋
