@@ -1,55 +1,83 @@
-Hi,I am building practical skills in **Excel, data analysis, and technology** while bringing experience from **horticulture and hands-on work environments**.
+# 🌱 Horticulture & Digital Skills Portfolio
 
-I enjoy learning through real projects and improving my skills step by step.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Horticulture+%7C+Landscape;Excel+%7C+Data+Analysis;Practical+Projects+%7C+Continuous+Learning" alt="Typing SVG" />
+</div>
 
-## 🛠️ Skills & Learning
+---
 
-### 📊 Data & Excel
-- Excel formulas and functions
-- Data cleaning and analysis
-- Financial modelling
-- Dashboards and reporting
-- Dynamic Excel functions (GROUPBY, PIVOTBY, XLOOKUP)
+## 👋 About Me
 
-### 💻 Technology
-- GitHub & portfolio development
-- HTML/CSS basics
-- Exploring data tools and automation
+Hi,
 
-### 🌱 Background
-- Horticulture and garden maintenance
-- Practical problem solving
-- Outdoor work and teamwork
+I am building practical skills in **horticulture, Excel, and digital tools** while combining hands-on experience with technology.
 
-## 📂 Projects
+I enjoy learning through real projects, improving systems, and developing skills step by step.
 
-### 📊 Excel Portfolio
+---
+
+## 📂 Portfolio Projects
+
+### 📊 Excel Projects
+
 Building practical Excel projects including:
-- Financial calculators
-- Data analysis reports
-- Business dashboards
-- Inventory and tracking tools
 
-## 🎯 Current Goals
+🌿 **Plant Inventory Tracker**
+- Plant records and stock management
+- Excel Tables
+- Formulas
+- Data validation
 
-- Build a professional Excel/data portfolio
-- Learn Power Query and Power BI
-- Improve data analysis skills
-- Create useful projects that solve real problems
 
-## Hi there 👋
+📊 **Business Dashboard Projects**
+- PivotTables
+- Charts
+- Data visualisation
+- Performance tracking
 
-<!--
-**thl-369/thl-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌿 Horticulture & Landscape
+- Plant knowledge
+- Garden maintenance
+- Landscape practices
+- Outdoor problem solving
+
+### 📊 Excel & Data
+- Excel formulas and functions
+- XLOOKUP
+- INDEX/MATCH
+- GROUPBY & PIVOTBY
+- PivotTables
+- Dashboards
+- Data organisation
+
+### 💻 Digital Skills
+- GitHub portfolio development
+- Typing: 54 WPM | 96% Accuracy
+
+---
+
+## 🌱 Currently Learning
+
+- Power Query
+- Power BI
+- Data analysis workflows
+- Advanced Excel techniques
+
+---
+
+## 🎯 Goals
+
+- Create practical projects that solve real problems
+- Combine horticulture knowledge with digital skills
+
+---
+
+## 📫 Contact
+
+<a href="mailto:tran.hlam811@tutamail.com">
+<img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+</a>
