@@ -37,11 +37,6 @@ Building practical Excel projects including:
 - Improve data analysis skills
 - Create useful projects that solve real problems
 
-## 🌱 Philosophy
-
-> Small improvements every day create long-term growth.
-
-
 ## Hi there 👋
 
 <!--
