@@ -1,8 +1,8 @@
-# 🌱 Horticulture & Digital Skills Portfolio
+  # 🌱 Horticulture & Digital Skills Portfolio
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Horticulture+%7C+Landscape;Excel+%7C+Data+Analysis;Digital+Skills+%7C+Continuous+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Horticulture;Excel+Digital+Skills+%7C+Continuous+Learning" />
 
 </div>
 
@@ -21,6 +21,8 @@ I am developing projects that combine:
 
 My goal is to combine practical skills with technology to solve real-world problems and continue improving through hands-on projects.
 
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+### [🏆 Check Out My Full Portfolio Website](https://thl-369.github.io/)
 ---
 
 # 📂 Featured Projects
